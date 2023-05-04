@@ -1,6 +1,6 @@
 # Melbourne
 
-Documents for the Melbourne project
+Documents for the Melbourne project:
 
 - [Research](./research)
 - [Requirements](./requirements)
