@@ -1,6 +1,6 @@
 # melbourne
 Documents for the Melbourne project
 
-- Research and Thoughts
+- Research
 - Business Case
 - Financial Models
