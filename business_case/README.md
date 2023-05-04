@@ -1,4 +1,4 @@
-## Business Case
+# Business Case
 
 Melbourne Bitcoin Space
 
@@ -9,10 +9,10 @@ Authors: Chris Pollard
 Date Initiated: 1 May 2024
 
 
-# Executive Summary
+## Executive Summary
 
 
-# Rationale
+## Rationale
 
 
 ## Background
