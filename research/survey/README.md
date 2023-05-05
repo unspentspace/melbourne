@@ -13,7 +13,7 @@ The purpose is NOT to present a well-documented business case or pitch. This may
 
 ## Results
 
-While participants were encouraged to identify themselves, an anonymised version of has been stored [here](./survey/raw.json).
+While participants were encouraged to identify themselves, an anonymised version of has been stored [here](./raw.json).
 
 
 ## Aggregated Results
