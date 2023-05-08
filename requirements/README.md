@@ -1,8 +1,10 @@
 # Requirements
 
 ## Must have
-Hot desks
+- Hot desks
 
-Workshop
+- Workshop
+
+- Private meeting room / Podcast studio / Library
 
 ## Nice to have
