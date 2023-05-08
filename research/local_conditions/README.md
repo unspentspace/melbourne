@@ -2,18 +2,26 @@
 
 ## User Demand
 
-Share of people who own cryptocurrency in Australia from 2019-2022
-2022 - 25.6% of Australians
-Metro Melbourne population (including 15yrs and above) - 4,026,158
-25.6% of metro melbourne pop = 1,030,696 people who own some form of cryptocurrency.
-Bitcoin is the most held.
+- Share of people who own cryptocurrency in Australia from 2019-2022
+- 2022 - 25.6% of Australians
+- Metro Melbourne population (including 15yrs and above) - 4,026,158
+- 25.6% of metro melbourne pop = 1,030,696 people who own some form of cryptocurrency.
+- Bitcoin is the most held.
 
 
 <img width="60%" alt="Screen Shot 2023-05-08 at 4 20 58 pm" src="https://user-images.githubusercontent.com/132414909/236749333-318da381-95a9-4100-b162-63ebb76014b1.png">
 
 _www.statista.com_
 
-### Bitcoin products and services
+### Bitcoin companies in Melbourne
+
+### Bitcoin-friendly companies in Melbourne
+- CashApp (Block)
+- AmberApp (CEO and COO currently reside in Melbourne)
+
+### FOSS and Freedom oriented organisations
+
+
 
 
 ## Commercial Lease
