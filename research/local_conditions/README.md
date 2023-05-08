@@ -14,10 +14,42 @@
 _www.statista.com_
 
 ### Bitcoin companies in Melbourne
+- CashApp (Block) [website](https://cash.app/bitcoin)
+- AmberApp (CEO and COO currently reside in Melbourne) [website](https://bitcoindealers.com.au/](https://amber.app)
+- Bitcoin Dealers [website](https://bitcoindealers.com.au/)
+- Bitcoin Witness (a file witness application) [website](https://bitcoinwitness.com)
+- Apollo (Review products, Earn Bitcoin) [website](https://heyapollo.com) - co-founder Thomas Fahrer is in Melbourne
+- DAME Technologies (renewable bitcoin mining startup)
+- Digital Playhouse Foundation
+- Synonym - Reza
+- Re-Dime (Lachie)
+
+Number of people with bitcoin mentioned in their LinkedIn profile: 417
+
+### Bitcoin companies in Australia
+- Iris Energy (mainly NSW, one employee in Melbourne)
 
 ### Bitcoin-friendly companies in Melbourne
-- CashApp (Block)
-- AmberApp (CEO and COO currently reside in Melbourne)
+- Blockchain Centre
+- MiningStore
+
+### Open Source Bitcoin Contributors
+- Nick Farrow
+- Mat Holroyd [LinkedIn](https://www.linkedin.com/in/matholroyd/)
+- Ian Coleman [LinkedIn](https://www.linkedin.com/in/ian-coleman-a0275855/) [github](https://github.com/iancoleman)
+- Vedant C.[LinkedIn](https://www.linkedin.com/in/vedantchauhan/)
+
+
+### Bitcoin Podcasts in Melbourne
+- Reject the Frame, Andrew Kier
+- Meyrick's Dabbling Path, Meyrick honeybadger
+- Bitcoin with Jake, Jake Woodhouse
+- Get Off Zero, Kieran Nolan
+- Carrie 
+
+### Open source groups/communities in Melbourne
+- Linux Users Group Victoria [website](https://www.luv.asn.au/)
+- Melbourne Raspberry Pi Makers Group [website](https://melbourne-rpi.com.au/)
 
 ### FOSS and Freedom oriented organisations
 
