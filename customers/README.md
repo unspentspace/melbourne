@@ -7,6 +7,16 @@
 
 ```
 {
-customer1: 'hello'
+  customerType: 'Digital nomad',
+  professions: [
+    'software developer',
+    'designer',
+    'unemployed'
+  ],
+  bitcoinKnowledge: [
+    'medium',
+    'high'
+  ],
+  longtermCustomer: false
 }
 ```
