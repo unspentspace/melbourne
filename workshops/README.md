@@ -3,7 +3,7 @@
 Ideas for workshops (inspired by [Pleb Lab](https://github.com/PlebLab/PlebLab_Workshops))
 
 | Event | Type (once-off, regular, series) |
-| ----------- | ----------- |
+| :----------- | :----------- |
 | Nostr workshop | Once off |
 | Ordinals | Once off | 
 | PlebDev | Once off | 
