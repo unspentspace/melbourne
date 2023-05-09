@@ -1,5 +1,8 @@
 # Events / Workshops
 
+## 📅 Events
+
+## 🔨 Workshops
 Ideas for workshops (inspired by [Pleb Lab](https://github.com/PlebLab/PlebLab_Workshops))
 
 | Event | Type (once-off, regular, series) | Possible lead | Description |
