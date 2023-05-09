@@ -2,9 +2,9 @@
 
 Ideas for workshops (inspired by [Pleb Lab](https://github.com/PlebLab/PlebLab_Workshops))
 
-| Event | Type (once-off, regular, series) |
-| :----------- | :----------- |
-| Nostr workshop | Once off |
+| Event | Type (once-off, regular, series) | Possible lead | Description |
+| :----------- | :----------- | :----------- | :----------- |
+| Nostr workshop | Once off | @AK |
 | Ordinals | Once off | 
 | PlebDev | Once off | 
 | Demystifying the bitcoin whitepaper | Once off | 
