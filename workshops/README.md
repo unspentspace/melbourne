@@ -1,11 +1,15 @@
 # Events / Workshops
 
-## 📅 Events
+## 📅  Events
 
-## 🔨 Workshops
+| Event Title | Description | Possible lead | Description |
+| :----------- | :----------- | :----------- | :----------- |
+| Nostr workshop | Once off | @AK |
+
+## 🔨  Workshops
 Ideas for workshops (inspired by [Pleb Lab](https://github.com/PlebLab/PlebLab_Workshops))
 
-| Event | Type (once-off, regular, series) | Possible lead | Description |
+| Workshop | Type (once-off, regular, series) | Possible lead | Description |
 | :----------- | :----------- | :----------- | :----------- |
 | Nostr workshop | Once off | @AK |
 | Ordinals | Once off | Smarak @mil2d2 |
