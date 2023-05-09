@@ -1,5 +1,10 @@
 # Requirements
 
+| Requirement | Quality | MH / NTH |
+| ----------- | ----------- | ----------- |
+| Internet | Fast, reliable | MH |
+| Desks | Min number?, Min size, Surface?, Accessories? | MH | 
+
 ## Must have
 
 - Fast internet
