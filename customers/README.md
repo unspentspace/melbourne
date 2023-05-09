@@ -1,9 +1,10 @@
 # Customers
 
-1. Customer type 1
-2. Customer type 2
-3. Customer type 3
-4. Customer type 4
+1. Digital Nomad
+2. Professional Contractor Interested in Bitcoin
+3. Maxi Poor Stacker
+4. Open Source Bitcoin Contributor
+5. Work from home professional passionate about bitcoin
 
 
 ## 1. Digital Nomad
@@ -33,7 +34,7 @@
 }
 ```
 
-## 2. Professional Contractor
+## 2. Professional Contractor Interested in Bitcoin
 
 ```
 {
@@ -82,5 +83,58 @@
 }
 ```
 
-## 4. Open Source Bitcoin Developer
+## 4. Open Source Bitcoin Contributor
+```
+{
+  type: 'openSourceBitcoinContributor',
+  description: 'An open source bitcoin contributor, either part or full time, generally without a salary from an employer.'
+  professions: [
+    'programmer',
+    'cryptographer',
+    'banker'
+  ],
+  bitcoinKnowledge: [
+    'high'
+  ],
+  longtermCustomer: true,
+  thresholdForGrunge: 'high'
+  activities: [
+    'coworking',
+    'events',
+    'workshop',
+    'library',
+    'podcasting',
+    'privateMeeting'
+  ],
+  spareMoney: 'low'
+}
+```
+
+## 5. Work from home professional passionate about bitcoin
+```
+{
+  type: 'workFromHomeProfessionalBitcoiner',
+  description: 'A professional, usually an employee, who mainly works from home, sometimes at the company office. They are quite passionate and interested in Bitcoin, and have a decent amount of spare cash.'
+  professions: [
+    'finance',
+    'law',
+    'construction',
+    'engineering',
+    'information technology'
+  ],
+  bitcoinKnowledge: [
+    'medium'
+  ],
+  longtermCustomer: true,
+  thresholdForGrunge: 'high'
+  activities: [
+    'coworking',
+    'events',
+    'library',
+    'privateMeeting'
+  ],
+  spareMoney: 'high'
+}
+```
+
 
