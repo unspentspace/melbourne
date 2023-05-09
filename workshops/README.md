@@ -37,14 +37,14 @@ Ideas for workshops (inspired by [Pleb Lab](https://github.com/PlebLab/PlebLab_W
 
 
 ## Potential presenters
-conza - bisq
-crispy - intro to bitcoin
-kieran - intro to bitcoin
-jake - bitcoin is...
-nickfarrow - bitdevs and technical workshops
-tigs - nostr, lightning
-ak - nostr
-zack - cyberpunk hardware
-Smarak - ordinals, inscriptions
-J9 - intro to bitcoin
+- conza - bisq
+- crispy - intro to bitcoin
+- kieran - intro to bitcoin
+- jake - bitcoin is...
+- nickfarrow - bitdevs and technical workshops
+- tigs - nostr, lightning
+- ak - nostr
+- zack - cyberpunk hardware
+- Smarak - ordinals, inscriptions
+- J9 - intro to bitcoin
 
