@@ -84,7 +84,11 @@ Vacancy rate of CBD office market in Australia third quarter 2022
 
 _www.statista.com_
 
-### Co-working Spaces
+## Working from home
+> Prior to the pandemic, the percentage of employed people working from home on a regular basis had been steadily increasing by around a percentage point every two years. Our latest data for August 2021, as the Delta period impacts were deepening, are showing an 8.4 percentage point jump to 40.6 per cent.
+- Bjorn Jarvis, Head of Labour Statistics at the ABS (https://www.abs.gov.au/media-centre/media-releases/more-40-cent-australians-worked-home)
+
+## Co-working Spaces
 Nov 9, 2022: Hubs operator Victory Offices goes into administration (AFR, https://www.afr.com/property/commercial/hubs-operator-victory-offices-goes-into-administration-20221109-p5bwsi)
 
 > The COVID-19 pandemic had accelerated the growth of co-working spaces in the country, as traditional workspaces faced challenges during the crisis. Many enterprises moved toward co-working spaces because of the affordable prices and flexibility in working space. Also, the co-working spaces ensure to provide a safe working environment.
@@ -98,3 +102,24 @@ Nov 9, 2022: Hubs operator Victory Offices goes into administration (AFR, https:
 **Average monthly cost per hot desk**
 <img width="80%" alt="Screen Shot 2023-05-09 at 11 42 48 am" src="https://user-images.githubusercontent.com/132414909/236972834-fe623970-cbe9-4b7d-ae38-f341ad79499f.png">
 - https://www.mordorintelligence.com/industry-reports/australia-co-working-office-spaces-market
+
+### Coworking spaces in Richmond
+
+- Exchange Workspaces Richmond
+- Inspire9
+- Knock Knock Cowork
+- Juno Studio, creative $290 for whole space per month
+- SleevesUp
+- Co-Bake Space (can't find socials)
+- Hub Church Street
+- The Commons Cremorne
+- Six8 Bromham (closed)
+- Collective_100
+- LaunchPad Create
+- LaunchPad Orbit
+- LaunchPad Evolve
+- CreativeCubes.co
+- Richmond 501
+- Spaces, Richmond
+- Victory Offices, Richmond
+
