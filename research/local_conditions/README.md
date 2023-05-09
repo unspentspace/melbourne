@@ -83,3 +83,18 @@ Vacancy rate of CBD office market in Australia third quarter 2022
 <img width="60%" alt="Screen Shot 2023-05-08 at 4 18 36 pm" src="https://user-images.githubusercontent.com/132414909/236748818-efeb0e51-204b-4e18-9d15-9bff8633ae29.png">
 
 _www.statista.com_
+
+### Co-working Spaces
+Nov 9, 2022: Hubs operator Victory Offices goes into administration (AFR, https://www.afr.com/property/commercial/hubs-operator-victory-offices-goes-into-administration-20221109-p5bwsi)
+
+> The COVID-19 pandemic had accelerated the growth of co-working spaces in the country, as traditional workspaces faced challenges during the crisis. Many enterprises moved toward co-working spaces because of the affordable prices and flexibility in working space. Also, the co-working spaces ensure to provide a safe working environment.
+
+> a hot desk costs about USD 299 on average around the world, it looks more expensive in Australia, where it may cost up to USD 409 each month.
+
+> The Australia Co-Working Office Space Market is growing at a CAGR of >6.5% over the next 5 years.
+
+- https://www.mordorintelligence.com/industry-reports/australia-co-working-office-spaces-market
+
+**Average monthly cost per hot desk**
+<img width="80%" alt="Screen Shot 2023-05-09 at 11 42 48 am" src="https://user-images.githubusercontent.com/132414909/236972834-fe623970-cbe9-4b7d-ae38-f341ad79499f.png">
+- https://www.mordorintelligence.com/industry-reports/australia-co-working-office-spaces-market
