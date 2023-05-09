@@ -26,8 +26,14 @@ _www.statista.com_
 
 Number of people with bitcoin mentioned in their LinkedIn profile: 417
 
-### Bitcoin companies in Australia
-- Iris Energy (mainly NSW, one employee in Melbourne)
+### Bitcoin companies in Australia (with at least one employee)
+- Iris Energy - NSW
+- Fedimint - WA
+- HashX Mining - NSW
+- Bitaroo
+- Hard Block
+- PayBTC
+- Monochrome Assets - QLD
 
 ### Bitcoin-friendly companies in Melbourne
 - Blockchain Centre
@@ -47,16 +53,25 @@ Number of people with bitcoin mentioned in their LinkedIn profile: 417
 - Get Off Zero, Kieran Nolan
 - Carrie 
 
+### Bitcoin Podcasts in Australia
+- TwoBitIdiots
+- Australian Bitcoin Podcast
+
+
 ### Open source groups/communities in Melbourne
 - Linux Users Group Victoria [website](https://www.luv.asn.au/)
 - Melbourne Raspberry Pi Makers Group [website](https://melbourne-rpi.com.au/)
 
+
 ### FOSS and Freedom oriented organisations
 
 
+### Supporting organisations
+- Australian Bitcoin Industry Body [website](https://bitcoinindustrybody.org.au/)
+- Bitcoin Moon Fund [website](https://bitcoinmoonfund.org.au/)
 
 
-## Commercial Lease
+## Commercial Real Estate
 
 Rental Asking Price change in Melbourne for all commercial lease.
 <img width="60%" alt="Screen Shot 2023-05-08 at 4 13 29 pm" src="https://user-images.githubusercontent.com/132414909/236748118-97b48680-fb9c-494d-a8dd-f591fef426d5.png">
