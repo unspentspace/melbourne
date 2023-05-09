@@ -1,9 +1,16 @@
 # Requirements
 
-| Requirement | Quality | MH / NTH |
+Must: Must Have
+Nice: Nice To Have
+
+| Requirement | Quality | Must / Nice |
 | ----------- | ----------- | ----------- |
-| Internet | Fast, reliable | MH |
-| Desks | Min number?, Min size, Surface?, Accessories? | MH | 
+| Internet | Fast, reliable | Must |
+| Desks | Min number?, Min size, Surface?, Accessories? | Must | 
+| Workshop | Work tables, good lighting, test nodes, lockers, shelves, server racks | Must |
+| Private room | For meetings, podcasting and library | Must | 
+| Bathroom | Single toilet, basin | Must | 
+| Security | Secure access system, electronic door access and alarm | Must |
 
 ## Must have
 
