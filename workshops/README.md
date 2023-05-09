@@ -2,9 +2,12 @@
 
 ## 📅  Events
 
-| Event Title | Description | Possible lead | Description |
-| :----------- | :----------- | :----------- | :----------- |
-| Nostr workshop | Once off | @AK |
+| Event Title | Description | Occurance | 
+| :----------- | :----------- | :----------- |
+| Bitcoin is... | An event series which focusses on a different aspect of bitcoin each time. E.g. Game Theory, Politics, Sound Money | Monthly, Evening |
+| Introduction to bitcoin | An introduction event for newcomers to understand the very basics of bitcoin | Monthly, Evening |
+| Melbourne BitDevs | An update and discussion of technical developments in bitcoin | Monthly |
+| Melbourne BitDevs Practical | Playing around with command line, networking, lightning | Monthly |
 
 ## 🔨  Workshops
 Ideas for workshops (inspired by [Pleb Lab](https://github.com/PlebLab/PlebLab_Workshops))
