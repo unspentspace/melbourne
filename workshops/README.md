@@ -8,6 +8,7 @@
 | Introduction to bitcoin | An introduction event for newcomers to understand the very basics of bitcoin | Monthly, Evening |
 | Melbourne BitDevs | An update and discussion of technical developments in bitcoin | Monthly |
 | Melbourne BitDevs Practical | Playing around with command line, networking, lightning | Monthly |
+| Bisq | Learn about how to use bisq | Every two months |
 
 ## 🔨  Workshops
 Ideas for workshops (inspired by [Pleb Lab](https://github.com/PlebLab/PlebLab_Workshops))
@@ -32,3 +33,18 @@ Ideas for workshops (inspired by [Pleb Lab](https://github.com/PlebLab/PlebLab_W
 | Lightning Dev Kit | Once off | @nickfarrow | 
 | ChatGPT Hacking | Once off | 
 | 3D Maker Workshop | Once off |  
+| Cyberpunk Hardware | Regular | Zac | Drop in to build your own project or help with someone else's |
+
+
+## Potential presenters
+conza - bisq
+crispy - intro to bitcoin
+kieran - intro to bitcoin
+jake - bitcoin is...
+nickfarrow - bitdevs and technical workshops
+tigs - nostr, lightning
+ak - nostr
+zack - cyberpunk hardware
+Smarak - ordinals, inscriptions
+J9 - intro to bitcoin
+
