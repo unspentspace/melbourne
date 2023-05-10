@@ -1,10 +1,14 @@
 # Customers
+customer = anyone who pays for a membership or event/workshop at unspent.space
+member = a paying member who generally uses the space during the day.
 
-1. Digital Nomad
-2. Professional Contractor Interested in Bitcoin
-3. Maxi Poor Stacker
-4. Open Source Bitcoin Contributor
-5. Work from home professional passionate about bitcoin
+List of customer types with anticipated percentage of membership base.
+1. Digital Nomad (5%)
+2. Professional Contractor Interested in Bitcoin (45%)
+3. Maxi Poor Stacker (5%)
+4. Open Source Bitcoin Contributor (5%)
+5. Work from home employee passionate about bitcoin (30%)
+6. Employee from a bitcoin or bitcoin-friendly company e.g. CashApp (10%)
 
 
 ## 1. Digital Nomad
