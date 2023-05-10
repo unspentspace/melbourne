@@ -1,4 +1,7 @@
 # Customers
+
+## Summary
+
 customer = anyone who pays for a membership or event/workshop at unspent.space
 member = a paying member who generally uses the space during the day.
 
@@ -9,6 +12,8 @@ List of customer types with anticipated percentage of membership base.
 4. Open Source Bitcoin Contributor (5%)
 5. Work from home employee passionate about bitcoin (30%)
 6. Bitcoin-related company e.g. Block -> CashApp employees (10%)
+
+_Based on this ratio, the customer types to focus on would be **Type 2, 5 and 6**_
 
 
 ## 1. Digital Nomad
