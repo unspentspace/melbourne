@@ -3,6 +3,7 @@
 ## Summary
 
 customer = anyone who pays for a membership or event/workshop at unspent.space
+
 member = a paying member who generally uses the space during the day.
 
 List of customer types with anticipated percentage of membership base.
