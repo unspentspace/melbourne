@@ -16,14 +16,13 @@
     'software developer',
     'designer',
     'gap year'
-    'unemployed'
+    'early retired'
   ],
   bitcoinKnowledge: [
-    'medium',
-    'high'
+    'medium'
   ],
   longtermCustomer: false,
-  thresholdForGrunge: 'high'
+  comfortRequired: 'low'
   activities: [
     'coworking',
     'workshop',
@@ -48,7 +47,7 @@
     'medium'
   ],
   longtermCustomer: true,
-  thresholdForGrunge: 'low'
+  comfortRequired: 'high'
   activities: [
     'coworking',
     'workshop',
@@ -72,7 +71,7 @@
     'high'
   ],
   longtermCustomer: true,
-  thresholdForGrunge: 'high'
+  comfortRequired: 'low'
   activities: [
     'events',
     'workshop',
@@ -97,7 +96,7 @@
     'high'
   ],
   longtermCustomer: true,
-  thresholdForGrunge: 'high'
+  comfortRequired: 'low'
   activities: [
     'coworking',
     'events',
@@ -126,7 +125,7 @@
     'medium'
   ],
   longtermCustomer: true,
-  thresholdForGrunge: 'high'
+  comfortRequired: 'medium'
   activities: [
     'coworking',
     'events',
