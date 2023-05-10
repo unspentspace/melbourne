@@ -8,7 +8,7 @@ List of customer types with anticipated percentage of membership base.
 3. Maxi Poor Stacker (5%)
 4. Open Source Bitcoin Contributor (5%)
 5. Work from home employee passionate about bitcoin (30%)
-6. Employee from a bitcoin or bitcoin-friendly company e.g. CashApp (10%)
+6. Bitcoin-related company e.g. Block -> CashApp employees (10%)
 
 
 ## 1. Digital Nomad
@@ -130,6 +130,33 @@ List of customer types with anticipated percentage of membership base.
   ],
   longtermCustomer: true,
   comfortRequired: 'medium'
+  activities: [
+    'coworking',
+    'events',
+    'library',
+    'privateMeeting'
+  ],
+  spareMoney: 'high'
+}
+```
+
+## 6. Bitcoin related company
+```
+{
+  type: 'bitcoinRelatedCompany',
+  description: 'A company that works on bitcoin products, interacts with bitcoin or is aligned with bitcoin values ie low time preference, verify don't trust, privact is important, self-sovereignty etc.'
+  industries: [
+    'finance',
+    'fintech',
+    'accountant',
+    'consultancy'
+  ],
+  bitcoinKnowledge: [
+    'medium',
+    'high'
+  ],
+  longtermCustomer: true,
+  comfortRequired: 'high'
   activities: [
     'coworking',
     'events',
