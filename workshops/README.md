@@ -13,9 +13,9 @@
 ## 🔨  Workshops
 Ideas for workshops (inspired by [Pleb Lab](https://github.com/PlebLab/PlebLab_Workshops))
 
-| Workshop | Type (once-off, regular, series) | Person Responsible | Time Slot | Description |
-| :----------- | :----------- | :----------- | :----------- | :----------- |
-| Nostr workshop | Once off | |
+| Workshop | Type (annual, once-off, regular, series) | Person Responsible | Time Slot | Description |
+| :----------- | :----------- | :----------- | :------- | :----------- |
+| Nostr workshop | Annual | |
 | Ordinals | Once off | |
 | PlebDev | Once off |  | 
 | Demystifying the bitcoin whitepaper | Once off | 
@@ -33,7 +33,7 @@ Ideas for workshops (inspired by [Pleb Lab](https://github.com/PlebLab/PlebLab_W
 | Lightning Dev Kit | Once off |  | 
 | ChatGPT Hacking | Once off | 
 | 3D Maker Workshop | Once off |  
-| Cyberpunk Hardware | Regular |  | Drop in to build your own project or help with someone else's |
+| Cyberpunk Hardware | Regular |  | | Drop in to build your own project or help with someone else's |
 
 
 ## Interested presenters workshop lead
