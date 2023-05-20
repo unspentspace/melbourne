@@ -13,38 +13,29 @@
 ## 🔨  Workshops
 Ideas for workshops (inspired by [Pleb Lab](https://github.com/PlebLab/PlebLab_Workshops))
 
-| Workshop | Type (once-off, regular, series) | Possible lead | Description |
-| :----------- | :----------- | :----------- | :----------- |
-| Nostr workshop | Once off | @AK |
-| Ordinals | Once off | Smarak @mil2d2 |
-| PlebDev | Once off | @nickfarrow | 
+| Workshop | Type (once-off, regular, series) | Person Responsible | Time Slot | Description |
+| :----------- | :----------- | :----------- | :----------- | :----------- |
+| Nostr workshop | Once off | |
+| Ordinals | Once off | |
+| PlebDev | Once off |  | 
 | Demystifying the bitcoin whitepaper | Once off | 
-| Learn Bitcoin Script | Once off | @nickfarrow | 
+| Learn Bitcoin Script | Once off |  | 
 | Crafting your signal | Once off | 
 | Build your first lightning mobile app | Once off | 
-| Discreet Log Contracts | Once off | @nickfarrow | 
-| How to develop on Bitcoin Core | Once off | @nickfarrow | 
+| Discreet Log Contracts | Once off |  | 
+| How to develop on Bitcoin Core | Once off |  | 
 | Learn LNBits | Once off | 
 | Web of trust | Once off | 
 | Learn figma / Bitcoin Design | Once off | 
 | How to build a bitcoin bank | Once off | 
-| All about coinjoins | Once off | @nickfarrow | 
-| Learn Rust and make a simple bitcoin wallet | Once off | @nickfarrow | 
-| Lightning Dev Kit | Once off | @nickfarrow | 
+| All about coinjoins | Once off |  | 
+| Learn Rust and make a simple bitcoin wallet | Once off |  | 
+| Lightning Dev Kit | Once off |  | 
 | ChatGPT Hacking | Once off | 
 | 3D Maker Workshop | Once off |  
-| Cyberpunk Hardware | Regular | Zac | Drop in to build your own project or help with someone else's |
+| Cyberpunk Hardware | Regular |  | Drop in to build your own project or help with someone else's |
 
 
-## Potential presenters
-- conza - bisq
-- crispy - intro to bitcoin
-- kieran - intro to bitcoin
-- jake - bitcoin is...
-- nickfarrow - bitdevs and technical workshops
-- tigs - nostr, lightning
-- ak - nostr
-- zack - cyberpunk hardware
-- Smarak - ordinals, inscriptions
-- J9 - intro to bitcoin
+## Interested presenters workshop lead
+- enter your details here, yes you!
 
