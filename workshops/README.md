@@ -36,6 +36,7 @@ Ideas for workshops (inspired by [Pleb Lab](https://github.com/PlebLab/PlebLab_W
 | Cyberpunk Hardware | Regular |  | | Drop in to build your own project or help with someone else's |
 
 
-## Interested presenters workshop lead
+## Interested presenters/event/workshop lead
 - enter your details here, yes you!
+- Super anonolady (byo chips and dip)
 
