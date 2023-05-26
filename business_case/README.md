@@ -1,6 +1,4 @@
-# Business Case
-
-A Melbourne Bitcoin Space
+# Business Case - A Melbourne Bitcoin Space
 
 ## Executive Summary
 
