@@ -1,13 +1,6 @@
 # Business Case
 
-Melbourne Bitcoin Space
-
-Business Case v0.1
-
-Authors: Chris Pollard
-
-Date Initiated: 1 May 2024
-
+A Melbourne Bitcoin Space
 
 ## Executive Summary
 
@@ -76,12 +69,12 @@ Many bitcoiners are private people and so it is difficult to measure the passion
 # Business Options
 
 
-## Option 1: Company
+## Option 1: Start a for profit company
 
 Description: This option involves creating a standard business model with 2-3 owners/partners. It initially involves employing one to two people to manage and grow the community.
 
 
-## Option 2: Association or Co-operative
+## Option 2: Start a not-for-profit association
 
 Description: This option involves creating a[co-operative](https://business.gov.au/planning/business-structures-and-types/business-structures/co-operative) (pardon the communist reference) of at least 5 members. Dissimilar to option 1, the space would operate on a relatively smaller budget and initially with little to no employees. This option might rely on some level of volunteering by its members to maintain the premises. It will give greater control and privacy for members, as compared to option 1.
 
@@ -90,7 +83,7 @@ For a list of Victorian cooperatives as examples, visit this[website](https://ww
 
 ## Option 3: Do Nothing
 
-This option involves not doing anything. Likely another business or set of individuals will eventually try this, with some degree of success. But in the meantime, for the melbourne bitcoin community, options to meet will be limited to parks, pubs and the Blockchain Centre at RMIT (Melbourne Bitcoin Developers meetup).
+This option involves not doing anything. Likely another business or set of individuals will eventually try this, with some degree of success. But in the meantime, for the Melbourne bitcoin community, options to meet will be limited to parks, pubs, renting council facilities and the Blockchain Centre at RMIT (Melbourne Bitcoin Developers meetup). We think this option will not contribute to bitcoin cultural and code contribution development in Melbourne.
 
 
 ## Comparison of Options
