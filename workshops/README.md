@@ -34,6 +34,7 @@ Ideas for workshops (inspired by [Pleb Lab](https://github.com/PlebLab/PlebLab_W
 | ChatGPT Hacking | Once off | 
 | 3D Maker Workshop | Once off |  
 | Cyberpunk Hardware | Regular |  | | Drop in to build your own project or help with someone else's |
+| How To Use Github | Regular | | | Learn Github basics to report issues and make simple contributions |
 
 
 ## Interested presenters/event/workshop lead
