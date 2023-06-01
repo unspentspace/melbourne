@@ -89,8 +89,8 @@ This option involves not doing anything. Likely another business or set of indiv
 
 | **Option** | **Option 1**                                                                      | **Option 2**                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Pros**   | - Visible to public, foot traffic - More likely to attract investment/sponsorship | - A private, controlled space - Difficult to co-opt mission - Can operate with little capital                                                    |
-| **Cons**   | - More expensive capital startup cost                                             | - Too many members coordination/agreements issues? - Less likely to inject capital - Difficulty attracting members, usually little to no profit. |
+| **Pros**   | - Incentive for outside investment - Flexibility in adapting to changing conditions - Little to no risk to customers | - Non-profit, no investors - Difficult to co-opt mission - Can operate with little capital - Owned and controlled by members                                                  |
+| **Cons**   | - Capital startup risk for founders  - Operations responsibility all on owners                                           | - Too many members coordination/agreements issues? - Less likely to attract capital |
 
 
 # Benefits
