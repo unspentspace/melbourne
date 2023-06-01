@@ -19,8 +19,8 @@ I personally believe that it is inevitable that this will happen, whether it's t
 Terms defined:
 
 - **Bitcoiner:** an individual who is passionate about bitcoin and its characteristics.
-- *Bitcoin Business:*any business that is built around the bitcoin technology stack.
-- *Cypherpunk:*a group of individuals championing the use of cryptography to challenge existing social and political status quo concerning privacy, and contributes to the development of privacy-focused technologies to support the movement.
+- **Bitcoin Business:** any business that is built around the bitcoin technology stack.
+- **Cypherpunk:** a group of individuals championing the use of cryptography to challenge existing social and political status quo concerning privacy, and contributes to the development of privacy-focused technologies to support the movement.
 
 
 ### Problem
