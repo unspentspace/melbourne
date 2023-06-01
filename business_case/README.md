@@ -25,10 +25,10 @@ Terms defined:
 
 ### Problem
 
-“The question is not whether your part of the world is going to change. The question is how.”
+> “The question is not whether your part of the world is going to change. The question is how.”
 _Edward T. McMahon_
 
-"Be the change you wish to see in the world."
+> "Be the change you wish to see in the world."
 _Ghandi_
 
 There is currently no place in Melbourne for bitcoiners to work, talk and play together. Why is this a problem? Surely we could just meet at the park, or hire a council meeting room occasionally?
