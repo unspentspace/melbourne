@@ -63,6 +63,7 @@ Many bitcoiners are private people and so it is difficult to measure the passion
 
 ## Out of Scope
 
+- Given the current local environment, this business case will not aim to build an incubator/venture studio. While we hope that businesses can be spawned from people meeting and working together in a shared space, we don't believe that Melbourne is quite ready for that kind of business model.
 
 # Business Options
 
