@@ -98,32 +98,35 @@ This option involves not doing anything. Likely another business or set of indiv
 
 ## Expected Benefits
 
--   
+- Provides a sustainable place for bitcoin friendly events and educational activities to be hosted.
+- Provides opportunities for like-minded individuals to meet and create relationships.
+- Provides an opportunity for a modest revenue and profit to be able to reinvest and support the development of the space.
 
 
 ## Expected Dis-benefits
 
--   
+No disbenefits have been identified.
 
 
 # Timescale
 
-Depending on interest, incorporate within the next 6 months and aim to establish a property for lease.
-
-3 years to aim for sustainability
-
+Aim for launch in Q4 2023 or Q1 2024.
 
 # Costs
 
+Initial 1 year cost target is in the range of $72,000 - $92,000
 
 # Investment Appraisal
 
+Investment appraisal is located in the private folder.
 
 ## Return on investment
 
+Return on investment is located in the private folder.
 
 ## Funding requested
 
+No funding sought at this stage. Funding for first year is to be provided by founders.
 
 # Major Risks
 
