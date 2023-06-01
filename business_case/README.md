@@ -70,7 +70,7 @@ Many bitcoiners are private people and so it is difficult to measure the passion
 
 ## Option 1: Start a for profit company
 
-Description: This option involves creating a standard business model with 2-3 owners/partners. It initially involves employing one to two people to manage and grow the community.
+Description: This option involves creating a standard business model with 2-3 owners/partners. It may involve employing one to two people to manage and grow the community, or it could be run mostly as self-service.
 
 
 ## Option 2: Start a not-for-profit association
