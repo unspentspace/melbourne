@@ -6,7 +6,7 @@
 ## Rationale
 
 
-## Background
+### Background
 
 There is a growing demand for co-working and private spaces around the world for bitcoiners, bitcoin businesses and Free and Open Source Software (FOSS) development (case-in-point examples include Bitcoin Commons, Bitcoin Grove, Bitcoin Park, Pleb Lab, h4ckbs). These spaces also exist to be the sanctuary and learning space for like-minded folk wishing to advance bitcoin adoption.
 
@@ -18,12 +18,12 @@ I personally believe that it is inevitable that this will happen, whether it's t
 
 Terms defined:
 
-- **Bitcoiner:**an individual who is passionate about bitcoin and its characteristics.
-- **Bitcoin Business:**any business that is built around the bitcoin technology stack.
-- **Cypherpunk:**a group of individuals championing the use of cryptography to challenge existing social and political status quo concerning privacy, and contributes to the development of privacy-focused technologies to support the movement.
+- *Bitcoiner:*an individual who is passionate about bitcoin and its characteristics.
+- *Bitcoin Business:*any business that is built around the bitcoin technology stack.
+- *Cypherpunk:*a group of individuals championing the use of cryptography to challenge existing social and political status quo concerning privacy, and contributes to the development of privacy-focused technologies to support the movement.
 
 
-## Problem
+### Problem
 
 “The question is not whether your part of the world is going to change. The question is how.”
 _Edward T. McMahon_
