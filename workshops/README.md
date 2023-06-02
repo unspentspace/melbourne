@@ -35,6 +35,7 @@ Ideas for workshops (inspired by [Pleb Lab](https://github.com/PlebLab/PlebLab_W
 | 3D Maker Workshop | Once off |  
 | Cyberpunk Hardware | Regular |  | | Drop in to build your own project or help with someone else's |
 | How To Use Github | Regular | | | Learn Github basics to report issues and make simple contributions |
+| Self Managed Super Fund | Regular, monthly | | How to Save for the Future | 
 
 
 ## Interested presenters/event/workshop lead
