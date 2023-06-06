@@ -1,8 +1,11 @@
 # Melbourne
 
-_WORK IN PROGRESS AND IN PROCESS OF MIGRATION_
+Submit an issue:
+- [Add](https://github.com/unspentspace/melbourne/issues/new/choose) a book to the library wishlist
+- Add an event or workshop idea
+- Suggest a change to any particular document
 
-Documents for the Melbourne project:
+Public documents for the Melbourne project include:
 
 - [Market Research](./research)
 - [Requirements](./requirements)
