@@ -12,3 +12,5 @@ Public documents for the Melbourne project include:
 - [Business Case](./business_case)
 - [Financial Models](./financial_models)
 - [Customers](./customers)
+- [Events and Workshops](./workshops)
+- [Library Wishlist](./library)
