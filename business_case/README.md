@@ -8,7 +8,7 @@
 
 ### Background
 
-There is a growing demand for co-working and private spaces around the world for bitcoiners, bitcoin businesses and Free and Open Source Software (FOSS) development (case-in-point examples include Bitcoin Commons, Bitcoin Grove, Bitcoin Park, Pleb Lab, h4ckbs). These spaces also exist to be the sanctuary and learning space for like-minded folk wishing to advance bitcoin adoption.
+There is a growing demand around the world for physical spaces for bitcoiners, whether it be co-working, hacker space, event space or just meeting up (case-in-point examples include Bitcoin Commons, Bitcoin Grove, Bitcoin Park, Pleb Lab, h4ckbs). These spaces also exist to be the sanctuary and learning space for like-minded folk wishing to advance bitcoin adoption.
 
 I (@bitcoinCrispy on telegram) and some others, have been thinking about the viability of a space (co-working, workshop, events etc) in Melbourne. The main goal would be to create a physical space for bitcoiners to exchange ideas, build relationships and build products that will help the ecosystem.
 
