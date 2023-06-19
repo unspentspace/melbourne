@@ -1,10 +1,19 @@
 # Business Case - A Bitcoin Friendly Space in Melbourne
 
+<img width="588" alt="Screen Shot 2023-06-19 at 9 26 39 pm" src="https://github.com/unspentspace/melbourne/assets/132414909/063a2045-f9bb-4238-8137-3806c0b3bc01">
+
+
 ## Executive Summary
 
+Bitcoin cyberpsace culture in Australia has grown considerably in the last few years. If you look at the capital city cyberspace groups (telegram), there are approximately 1100 members (which probably include crossover). From these groups, there are consistent meetups in at least Sydney, Brisbane, Melbourne and Perth. Since 2021, there have been a new kind of meatspace attraction, the 'bitcoin bush bash', which happens in country towns in Victoria, NSW and Queensland each year. The private cyberspace group for attendees has grown to 139 members. That is 139 real humans who have gone out of their way to drive or fly multiple hours to be with other bitcoiners. Suffice to say, demand for meatspace is growing.
+
+On a selfish note, the founders of unspent.space all have a shared desire: to be in meatspace with other bitcoiners. Whether it's sitting next to someone while fiat mining, or sharing a coffee break with a friend, we can't get enough of the bitcoin scene, and we love learning from others. Our thesis is that there are at least 30 like-minded people in Melbourne who share this desire.
+
+Based on our research, thinking and debates, we believe the best way to solve this meatspace problem is to secure a property and to operate a space for bitcoiners to co-work, share and learn together.
+
+We are not currently looking for investment as we'd like to start small and maintain control of the Melbourne project in its beginning. The first year will cost us in the range of $80k - $120k depending on participation, and we anticipate a return of -10% to 10%. The first year will be the most difficult and will see the least return. Our aim in the first five years is to maintain a reasonable profit to be able to re-invest and grow the business.
 
 ## Rationale
-
 
 ### Background
 
@@ -26,6 +35,7 @@ Terms defined:
 ### Problem
 
 <img width="500" alt="Screen Shot 2023-06-19 at 9 00 33 pm" src="https://github.com/unspentspace/melbourne/assets/132414909/7be5bc16-da93-4f17-ad7c-eb029f448d10">
+Screenshot taken from Gigi's talk on [twentyone.world](https://www.youtube.com/watch?v=iOWvL9-4k4A)
 
 
 > “The question is not whether your part of the world is going to change. The question is how.”
@@ -78,15 +88,14 @@ Many bitcoiners are private people and so it is difficult to measure the passion
 
 ## Option 1: Start a for profit company
 
-Description: This option involves creating a standard business model with 2-3 owners/partners. It may involve employing one to two people to manage and grow the community, or it could be run mostly as self-service.
+Description: This option involves creating a standard business model with 2-3 owners/partners. It may involve employing one to two people to manage and grow the community, or it could be run mostly as self-service. It would focus on servicing a small number of people for daytime use and events and workshops on evenings and weekends.
 
 
 ## Option 2: Start a not-for-profit association
 
-Description: This option involves creating a[co-operative](https://business.gov.au/planning/business-structures-and-types/business-structures/co-operative) (pardon the communist reference) of at least 5 members. Dissimilar to option 1, the space would operate on a relatively smaller budget and initially with little to no employees. This option might rely on some level of volunteering by its members to maintain the premises. It will give greater control and privacy for members, as compared to option 1.
+Description: This option involves creating a [co-operative](https://business.gov.au/planning/business-structures-and-types/business-structures/co-operative) (pardon the communist reference) or association of at least 5 members. Dissimilar to option 1, the space would operate on a relatively smaller budget and initially with little to no employees. This option might rely on some level of volunteering by its members to maintain the premises. It will give greater control and privacy for members, as compared to option 1.
 
-For a list of Victorian cooperatives as examples, visit this[website](https://www.coopdevelopment.org.au/viclinks.html#finance).
-
+For a list of Victorian cooperatives as examples, visit this [website](https://www.coopdevelopment.org.au/viclinks.html#finance).
 
 ## Option 3: Do Nothing
 
@@ -103,17 +112,19 @@ This option involves not doing anything. Likely another business or set of indiv
 
 # Benefits
 
+The benefits are based on Option 1, the standard for-profit company business model.
 
 ## Expected Benefits
 
-- Provides a sustainable place for bitcoin friendly events and educational activities to be hosted.
+- Provides a consistent place for bitcoin friendly events and educational activities to be hosted.
 - Provides opportunities for like-minded individuals to meet and create relationships.
 - Provides an opportunity for a modest revenue and profit to be able to reinvest and support the development of the space.
+- Provides incentive for international bitcoiners to spend time in Melbourne.
 
 
 ## Expected Dis-benefits
 
-No disbenefits have been identified.
+No significant disbenefits have been identified, yet. Undoubtedly there will be some.
 
 
 # Timescale
@@ -130,7 +141,7 @@ Investment appraisal is located in the private folder.
 
 ## Return on investment
 
-Return on investment is located in the private folder.
+The first year return is anticipated range from -10% to 10%. Full financial model on investment is located in the private repository.
 
 ## Funding requested
 
@@ -138,16 +149,8 @@ No funding sought at this stage. Funding for first year is to be provided by fou
 
 # Major Risks
 
-Shitcoins
-
-Dominated by one or a couple of companies
-
-Financial risk
-
-Targeting by regulators
-
-
-# Governance
-
-  
+- Shitcoins: there is a low risk, albeit it is a risk. The risk is mitigated by making the vision very public from the start and having founders who understand this risk and are passionate about bitcoin. This risk is best abated by fostering a strong community, which is already growing in the Melbourne Bitcoin Only telegram group.
+- Dominated by one or a couple of companies: by starting this business with founder's capital and no other company interest, this puts us at an advantage with regards to this risk. The risk can also be mitigated by not relying on businesses alone for the business model to work.
+- Financial risk: given that this will be a small membership base with a relatively low capital cost for starting, the risk is medium and the impact is relatively low to all founders.
+- Targeting by regulators: this is a low risk, as the business will not operate as an exchange or investing firm. The business is a co-working space primarily, with very few members relatively.
   
