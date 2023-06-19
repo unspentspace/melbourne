@@ -25,6 +25,9 @@ Terms defined:
 
 ### Problem
 
+<img width="500" alt="Screen Shot 2023-06-19 at 9 00 33 pm" src="https://github.com/unspentspace/melbourne/assets/132414909/7be5bc16-da93-4f17-ad7c-eb029f448d10">
+
+
 > “The question is not whether your part of the world is going to change. The question is how.”
 _Edward T. McMahon_
 
