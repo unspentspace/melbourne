@@ -31,6 +31,8 @@ _Edward T. McMahon_
 > "Be the change you wish to see in the world."
 _Ghandi_
 
+### The problem is that cyberspace is not enough to foster a local culture, a meatspace is necessary. For bitcoin understanding to grow locally, we need a consistent place that people can organise around.
+
 There is currently no place in Melbourne for bitcoiners to work, talk and play together. Why is this a problem? Surely we could just meet at the park, or hire a council meeting room occasionally?
 
 Well, this is not a problem if you are happy with the status quo in our city. If you’re happy that there is high friction for bitcoiners to collide and interact, then there is no problem.
