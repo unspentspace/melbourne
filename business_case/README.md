@@ -64,6 +64,9 @@ Many bitcoiners are private people and so it is difficult to measure the passion
 
 - The business must be financially sustainable, not permanently relying on funding/grants.
 - The business will operate on a premises owned or leased by the business. It will not exist as part of a wider co-working space (while this could be worthwhile, it is not part of this particular proposal).
+- Based on local knowledge and surveying, we have narrowed the geographic search to the hoddle st/ punt road corridor focussed on Richmond.
+<img width="280" alt="Screen Shot 2023-06-19 at 9 03 45 pm" src="https://github.com/unspentspace/melbourne/assets/132414909/6cfb66c6-ddba-4436-beb4-938b527c0e59">
+
 
 
 ## Out of Scope
