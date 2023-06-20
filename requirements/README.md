@@ -7,10 +7,11 @@ Nice: Nice To Have
 | ----------- | ----------- | ----------- |
 | Internet | Fast, reliable | Must |
 | Desks | Min number?, Min size, Surface?, Accessories? | Must | 
-| Workshop | Work tables, good lighting, test nodes, lockers, shelves, server racks | Must |
+| Workshop | Work tables, good lighting, test nodes, lockers, shelves, server racks | Nice |
 | Private room | For meetings, podcasting and library | Must | 
 | Bathroom | Single toilet, basin | Must | 
 | Security | Secure access system, electronic door access and alarm | Must |
+| Kitchenette | | Must|
 
 ## Must have
 
