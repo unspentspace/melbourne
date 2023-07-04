@@ -51,7 +51,7 @@ Number of people with bitcoin mentioned in their LinkedIn profile: 417
 - Meyrick's Dabbling Path, Meyrick honeybadger
 - Bitcoin with Jake, Jake Woodhouse
 - Get Off Zero, Kieran Nolan
-- Carrie 
+- Bitcoin People, Carri Cee 
 
 ### Bitcoin Podcasts in Australia
 - TwoBitIdiots
